@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Sederhana</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di Website Reifanzz!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">Nama saya Reifan</a></li>
+            <li><a href="#services">Umur saya 16 Tahun</a></li>
+            <li><a href="#contact">Kelas X Di MAN 5 JAKUT</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>Tentang Saya</h2>
+            <p>saya madridista dan saya jago main fifa, ya gitu aja hehehe.</p>
+            <img src="image.jpg" alt="Gambar Saya">
+        </section>
+        <section id="services">
+            <h2>lagi ngapain si?</h2>
+            <p>Saya sedang belajar codingan, dan pengembangan perangkat lunak .</p>
+        </section>
+        <section id="contact">
+            <h2>Penutup</h2>
+            <p>ya gitu aja, mantapss</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Website Saya. Semua hak dilindungi.</p>
+    </footer>
+</body>
+</html>
